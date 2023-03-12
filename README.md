@@ -11,4 +11,6 @@ Requires LabVIEW to open the `.vi` files.
 - `mw-dar.vi` - waveform display (Kurvenverlauf) with time axis
 - `ZuFaGen-1_V01.vi` - random number generator
 
-Screenshot in `docs/Image.jpg` shows the Temp-1.vi front panel and block diagram.
+## Screenshot
+
+![Temp-1.vi front panel and block diagram](docs/Image.jpg)
